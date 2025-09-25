@@ -8,7 +8,7 @@ const Navbar = () => {
       {/* Desktop Menu  */}
       <div className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-black/50 max-w-5xl mx-auto p-4 flex justify-between items-center">
         <a href="#" className="text-lg font-bold">
-          Rithik Reddy
+          Joel Dasari
         </a>
         {/* Desktop Menu Links  */}
         <div className="hidden md:flex items-center gap-8 text-sm font-medium">
